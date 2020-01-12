@@ -1,2 +1,3 @@
 .DS_Store
-.vs/
+/doc/计算机图形学——软光栅渲染器.assets/
+/src/main/cpp/.vs/
