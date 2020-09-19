@@ -2,15 +2,11 @@
 
 Tongji University Computer Graphics Course Design --- Soft Renderer
 
-Table of Contents
-=================
-
-   * [软光栅渲染器 | Soft Renderer](#软光栅渲染器--soft-renderer)
-     * [项目 | Project](#项目--project)
-     * [实验结果 | Experimental Results](#实验结果--experimental-results)
-     * [代码 | Code](#代码--code)
-     * [项目结构 | Project Structure](#项目结构--project-structure)
-     * [关于作者 | About the Author](#关于作者--about-the-author)
+* [项目 | Project](#项目--project)
+* [实验结果 | Experimental Results](#实验结果--experimental-results)
+* [代码 | Code](#代码--code)
+* [项目结构 | Project Structure](#项目结构--project-structure)
+* [关于作者 | About the Author](#关于作者--about-the-author)
 
 ------
 
